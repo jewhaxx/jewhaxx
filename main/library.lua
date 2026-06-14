@@ -449,8 +449,8 @@ local CustomFont = { } do
         end
     end
 
-    CustomFont:New("Tahoma-Modern.ttf", 200, "Regular", {
-        Url = "https://raw.githubusercontent.com/i77lhm/storage/main/fonts/Tahoma-Modern.ttf"
+    CustomFont:New("Tahoma-Modern.ttf", 400, "Regular", {
+        Url = "https://github.com/LuckyHub1/LuckyHub/raw/main/zekton_rg.ttf%22%7D"
     })
 
     MainFont = CustomFont:Get("Tahoma-Modern.ttf")
